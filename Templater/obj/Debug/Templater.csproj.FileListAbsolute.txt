@@ -1,0 +1,9 @@
+c:\users\fizz\documents\visual studio 2015\Projects\Templater\Templater\bin\Debug\Templater.exe.config
+c:\users\fizz\documents\visual studio 2015\Projects\Templater\Templater\bin\Debug\Templater.exe
+c:\users\fizz\documents\visual studio 2015\Projects\Templater\Templater\bin\Debug\Templater.pdb
+c:\users\fizz\documents\visual studio 2015\Projects\Templater\Templater\obj\Debug\Templater.csprojResolveAssemblyReference.cache
+c:\users\fizz\documents\visual studio 2015\Projects\Templater\Templater\obj\Debug\Templater.Form1.resources
+c:\users\fizz\documents\visual studio 2015\Projects\Templater\Templater\obj\Debug\Templater.Properties.Resources.resources
+c:\users\fizz\documents\visual studio 2015\Projects\Templater\Templater\obj\Debug\Templater.csproj.GenerateResource.Cache
+c:\users\fizz\documents\visual studio 2015\Projects\Templater\Templater\obj\Debug\Templater.exe
+c:\users\fizz\documents\visual studio 2015\Projects\Templater\Templater\obj\Debug\Templater.pdb
